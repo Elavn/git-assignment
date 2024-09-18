@@ -1,0 +1,5 @@
+- Git is a distributed version control system.
+- GitHub hosts Git repositories.
+- The Git workflow consists of the working directory, staging area and repository.
+- You add files to the staging area before committing them.
+- Before pushing, you have to link your local repository to a remote repository like GitHub.
